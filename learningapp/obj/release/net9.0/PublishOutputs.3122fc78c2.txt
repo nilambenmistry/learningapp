@@ -1,0 +1,7 @@
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\learningapp.exe
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\appsettings.Development.json
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\appsettings.json
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\learningapp.dll
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\learningapp.deps.json
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\learningapp.runtimeconfig.json
+E:\204 - Azure Developer Associate\New Projects\learningapp\bin\publish\learningapp.pdb
